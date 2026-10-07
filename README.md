@@ -1,3 +1,7 @@
+
+<img width="1264" height="706" alt="image" src="https://github.com/user-attachments/assets/8e3ee4fa-0b8a-4986-bd9c-c733d1061854" />
+
+
 # Bài 2: Cấu hình phân quyền Nhóm và sudoers bằng visudo
 
 ## 1. Bối cảnh
